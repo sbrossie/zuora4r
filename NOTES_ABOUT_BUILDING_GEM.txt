@@ -1,0 +1,4 @@
+rake -T # All rules
+rake build # will build the gem locally
+gem push zuora4r # will push to rubygems.org as long as you have ssh key installed
+
